@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 8ee8664788817934690f5a9654108474
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Torch Stand Right max damage_0
+    21300002: Torch Stand Right max damage_1
+    21300004: Torch Stand Right max damage_2
+    21300006: Torch Stand Right max damage_3
+    21300008: Torch Stand Right max damage_4
+    21300010: Torch Stand Right max damage_5
+    21300012: Torch Stand Right max damage_6
+    21300014: Torch Stand Right max damage_7
+    21300016: Torch Stand Right max damage_8
+    21300018: Torch Stand Right max damage_9
+    21300020: Torch Stand Right max damage_10
+    21300022: Torch Stand Right max damage_11
+    21300024: Torch Stand Right max damage_12
+    21300026: Torch Stand Right max damage_13
+    21300028: Torch Stand Right max damage_14
+    21300030: Torch Stand Right max damage_15
+    21300032: Torch Stand Right max damage_16
+    21300034: Torch Stand Right max damage_17
+    21300036: Torch Stand Right max damage_18
+    21300038: Torch Stand Right max damage_19
+    21300040: Torch Stand Right max damage_20
+    21300042: Torch Stand Right max damage_21
+    21300044: Torch Stand Right max damage_22
+    21300046: Torch Stand Right max damage_23
+    21300048: Torch Stand Right max damage_24
+    21300050: Torch Stand Right max damage_25
+    21300052: Torch Stand Right max damage_26
+    21300054: Torch Stand Right max damage_27
+    21300056: Torch Stand Right max damage_28
+    21300058: Torch Stand Right max damage_29
+    21300060: Torch Stand Right max damage_30
+    21300062: Torch Stand Right max damage_31
+    21300064: Torch Stand Right max damage_32
+    21300066: Torch Stand Right max damage_33
+    21300068: Torch Stand Right max damage_34
+    21300070: Torch Stand Right max damage_35
+    21300072: Torch Stand Right max damage_36
+    21300074: Torch Stand Right max damage_37
+    21300076: Torch Stand Right max damage_38
+    21300078: Torch Stand Right max damage_39
+    21300080: Torch Stand Right max damage_40
+    21300082: Torch Stand Right max damage_41
+    21300084: Torch Stand Right max damage_42
+    21300086: Torch Stand Right max damage_43
+    21300088: Torch Stand Right max damage_44
+    21300090: Torch Stand Right max damage_45
+    21300092: Torch Stand Right max damage_46
+    21300094: Torch Stand Right max damage_47
+    21300096: Torch Stand Right max damage_48
+    21300098: Torch Stand Right max damage_49
+    21300100: Torch Stand Right max damage_50
+    21300102: Torch Stand Right max damage_51
+    21300104: Torch Stand Right max damage_52
+    21300106: Torch Stand Right max damage_53
+    21300108: Torch Stand Right max damage_54
+    21300110: Torch Stand Right max damage_55
+    21300112: Torch Stand Right max damage_56
+    21300114: Torch Stand Right max damage_57
+    21300116: Torch Stand Right max damage_58
+    21300118: Torch Stand Right max damage_59
+    21300120: Torch Stand Right max damage_60
+    21300122: Torch Stand Right max damage_61
+    21300124: Torch Stand Right max damage_62
+    21300126: Torch Stand Right max damage_63
+    21300128: Torch Stand Right max damage_64
+    21300130: Torch Stand Right max damage_65
+    21300132: Torch Stand Right max damage_66
+    21300134: Torch Stand Right max damage_67
+    21300136: Torch Stand Right max damage_68
+    21300138: Torch Stand Right max damage_69
+    21300140: Torch Stand Right max damage_70
+    21300142: Torch Stand Right max damage_71
+    21300144: Torch Stand Right max damage_72
+    21300146: Torch Stand Right max damage_73
+    21300148: Torch Stand Right max damage_74
+    21300150: Torch Stand Right max damage_75
+    21300152: Torch Stand Right max damage_76
+    21300154: Torch Stand Right max damage_77
+    21300156: Torch Stand Right max damage_78
+    21300158: Torch Stand Right max damage_79
+    21300160: Torch Stand Right max damage_80
+    21300162: Torch Stand Right max damage_81
+    21300164: Torch Stand Right max damage_82
+    21300166: Torch Stand Right max damage_83
+    21300168: Torch Stand Right max damage_84
+    21300170: Torch Stand Right max damage_85
+    21300172: Torch Stand Right max damage_86
+    21300174: Torch Stand Right max damage_87
+    21300176: Torch Stand Right max damage_88
+    21300178: Torch Stand Right max damage_89
+    21300180: Torch Stand Right max damage_90
+    21300182: Torch Stand Right max damage_91
+    21300184: Torch Stand Right max damage_92
+    21300186: Torch Stand Right max damage_93
+    21300188: Torch Stand Right max damage_94
+    21300190: Torch Stand Right max damage_95
+    21300192: Torch Stand Right max damage_96
+    21300194: Torch Stand Right max damage_97
+    21300196: Torch Stand Right max damage_98
+    21300198: Torch Stand Right max damage_99
+    21300200: Torch Stand Right max damage_100
+    21300202: Torch Stand Right max damage_101
+    21300204: Torch Stand Right max damage_102
+    21300206: Torch Stand Right max damage_103
+    21300208: Torch Stand Right max damage_104
+    21300210: Torch Stand Right max damage_105
+    21300212: Torch Stand Right max damage_106
+    21300214: Torch Stand Right max damage_107
+    21300216: Torch Stand Right max damage_108
+    21300218: Torch Stand Right max damage_109
+    21300220: Torch Stand Right max damage_110
+    21300222: Torch Stand Right max damage_111
+    21300224: Torch Stand Right max damage_112
+    21300226: Torch Stand Right max damage_113
+    21300228: Torch Stand Right max damage_114
+    21300230: Torch Stand Right max damage_115
+    21300232: Torch Stand Right max damage_116
+    21300234: Torch Stand Right max damage_117
+    21300236: Torch Stand Right max damage_118
+    21300238: Torch Stand Right max damage_119
+    21300240: Torch Stand Right max damage_120
+    21300242: Torch Stand Right max damage_121
+    21300244: Torch Stand Right max damage_122
+    21300246: Torch Stand Right max damage_123
+    21300248: Torch Stand Right max damage_124
+    21300250: Torch Stand Right max damage_125
+    21300252: Torch Stand Right max damage_126
+    21300254: Torch Stand Right max damage_127
+    21300256: Torch Stand Right max damage_128
+    21300258: Torch Stand Right max damage_129
+    21300260: Torch Stand Right max damage_130
+    21300262: Torch Stand Right max damage_131
+    21300264: Torch Stand Right max damage_132
+    21300266: Torch Stand Right max damage_133
+    21300268: Torch Stand Right max damage_134
+    21300270: Torch Stand Right max damage_135
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Torch Stand Right max damage_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torch Stand Right max damage_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 100
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torch Stand Right max damage_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 102
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torch Stand Right max damage_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 102
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
