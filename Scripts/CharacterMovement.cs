@@ -19,11 +19,13 @@ public class CharacterMovement : MonoBehaviour
 	public Rigidbody swordPrefab;
 
 	Rigidbody clone;
+	Animator anim;
 
 	void Awake()
 	{
 		groundCheck = GameObject.Find ("GroundCheck").transform;
 		swordSpawn = GameObject.Find ("SwordSpawn").transform;
+		anim = GetComponentInChildren<Animator>();
 		rigidbody.sleepVelocity = 0.0f;
 	}
 
@@ -32,6 +34,7 @@ public class CharacterMovement : MonoBehaviour
 	{
 		grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, whatIsGround);
 		rigidbody.velocity = new Vector2(moveDirection * maxSpeed, rigidbody.velocity.y);
+		anim.SetFloat("speed", Mathf.Abs (moveDirection * maxSpeed) );
 
 		if(grounded)
 			doubleJump = false;
