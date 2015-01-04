@@ -27,7 +27,7 @@ public class BossController : MonoBehaviour
 		anim = GetComponentInChildren<Animator>();
 		bossHealth = GetComponentInChildren<BossHealth>();
 		handTrigger_L = GameObject.Find ("HandTrigger_L").GetComponent<BoxCollider>();
-		handTrigger_R = GameObject.Find ("HandTrigger_R").GetComponent<BoxCollider>();
+		handTrigger_R = GameObject.Find ("HandTrigger_R").GetComponent<BoxCollider>(); 
 
 	}
 	
