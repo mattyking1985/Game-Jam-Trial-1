@@ -68,6 +68,11 @@ public class CharacterMovement : MonoBehaviour
 		}
 	}
 
+	void OnDisable()
+	{
+		anim.SetFloat ("speed", 0);
+	}
+
 	void Flip()
 	{
 		facingRight = !facingRight;
