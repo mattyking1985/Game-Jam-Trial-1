@@ -12,15 +12,16 @@ public class BossController : MonoBehaviour
 
 	public float attackTimer = 0.0f;
 	public float attackWaitTime = 2.0f;
-	public int attackCount = 1;
+	public int attackCount = 1; 
 
 	private Animator anim;
 	private BossHealth bossHealth;
 
 	private BoxCollider handTrigger_L;
 	private BoxCollider handTrigger_R;
-	
-	// Use this for initialization
+	public MeshRenderer hand_L;
+	public MeshRenderer hand_R;
+
 	void Awake () 
 	{
 		anim = GetComponentInChildren<Animator>();
@@ -30,7 +31,7 @@ public class BossController : MonoBehaviour
 
 	}
 	
-	// Update is called once per frame
+
 	void Update () 
 	{
 		if(bossAwake)
@@ -57,6 +58,8 @@ public class BossController : MonoBehaviour
 						print ("BOSS SMASH!");
 						handTrigger_L.collider.enabled = true;
 						handTrigger_R.collider.enabled = true;
+						hand_L.enabled = true;
+						hand_R.enabled = true;
 					}
 				}
 
